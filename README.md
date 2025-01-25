@@ -53,8 +53,8 @@ AudioWave is a feature-rich music streaming platform inspired by Spotify. It off
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/audiowave.git
-   cd audiowave
+   https://github.com/Rajeshaligeti/AudioWave.git
+   cd AudioWave
    ```
 
 2. **Install Dependencies**:
