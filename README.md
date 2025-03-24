@@ -4,6 +4,23 @@ AudioWave is a feature-rich music streaming platform inspired by Spotify. It off
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](media/home_page.png)
+
+### Playlist Creation
+![Playlist Creation](media/playlist_creation.png)
+
+### Music Player
+![Music Player](media/music_player.png)
+
+### Login Page
+![Login Page](media/login_page.png)
+
+
+---
+
 ## Features
 
 ### User Authentication
@@ -112,23 +129,6 @@ AudioWave/
 │   └── package.json
 └── README.md
 ```
-
----
-
-## Screenshots
-
-### Home Page
-![Home Page](media/home_page.png)
-
-### Playlist Creation
-![Playlist Creation](media/playlist_creation.png)
-
-### Music Player
-![Music Player](media/music_player.png)
-
-### Login Page
-![Login Page](media/login_page.png)
-
 ---
 
 ## License
